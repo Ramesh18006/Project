@@ -83,7 +83,7 @@ This project was created to practice and improve:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/udemy_clone.git
+git clone https://github.com/Ramesh18006/Project.git
 ```
 
 2. Open the project folder
@@ -101,6 +101,6 @@ It is not the official Udemy website.
 
 ##  Author
 
-**Ramesh Sermaraja**
+**Ramesh S**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Ramesh18006
