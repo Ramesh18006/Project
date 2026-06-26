@@ -31,7 +31,6 @@ This project recreates the opening page design of the popular online learning pl
 ```bash
 udemy-clone/
 ├── index.html           # Main HTML file
-├── README.md           # Project documentation
 ├── Images/
 │   ├── udemy.jpg       # Hero banner image
 │   ├── data_science.jpg
